@@ -1,5 +1,10 @@
 <?xml version="1.0"?>
 <doc>
+	<configuration>
+		<packageRestore>
+			<add key="enabled" value="True" />
+		</packageRestore>
+	</configuration>
     <assembly>
         <name>ApiCatalogo</name>
     </assembly>
